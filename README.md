@@ -26,7 +26,7 @@ José</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	 <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+	 <a style="margin-left: 10px;" target="_blank" href="https://josebuenoluis.com">
 		<img src="https://img.icons8.com/40/2266EE/internet"></a>
       </div>
 
