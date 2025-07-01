@@ -12,7 +12,7 @@ José</a></h1>
 
 - 🧪 He trabajado con Angular, Flask, MySQL, Jinja2, Bootstrap y Docker.
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 Puedes contactarme en: **josefbuenoluis@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
