@@ -6,7 +6,7 @@ José</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 Actualmente en búsqueda de nuevas oportunidades como desarrollador junior.
 
 - 🌱 I’m currently Working on Mobile App(React-Native)
 
