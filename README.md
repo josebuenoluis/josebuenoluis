@@ -14,7 +14,7 @@ José</a></h1>
 
 - 📫 Puedes contactarme en: **josefbuenoluis@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Visita mi página web: <a href="https://josebuenoluis.com" target="blank">https://josebuenoluis.com</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
