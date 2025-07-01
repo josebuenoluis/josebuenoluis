@@ -10,7 +10,15 @@ José</a></h1>
 
 - 🌱 Actualmente desarrollando proyectos personales y aprendiendo nuevas tecnologías.
 
-- 🧪 He trabajado con Angular, Flask, MySQL, Jinja2, Bootstrap y Docker.
+- 💻 Habilidades técnicas:
+
+	Desarrollo frontend: Angular, React, Jinja2
+
+	Backend: Flask, Django, ASP.NET
+
+	Bases de datos: MySQL, PostgreSQL, MongoDB
+
+	Contenedores y despliegue: Docker
 
 - 🌐 Visita mi página web: <a href="https://josebuenoluis.com" target="blank">https://josebuenoluis.com</a>
 
