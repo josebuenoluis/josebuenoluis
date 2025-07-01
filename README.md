@@ -12,9 +12,10 @@ José</a></h1>
 
 - 🧪 He trabajado con Angular, Flask, MySQL, Jinja2, Bootstrap y Docker.
 
-- 📫 Puedes contactarme en: **josefbuenoluis@gmail.com**
-
 - 📄 Visita mi página web: <a href="https://josebuenoluis.com" target="blank">https://josebuenoluis.com</a>
+
+- 📫 Puedes contactarme en: **josefbuenoluis@gmail.com**
+  
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
