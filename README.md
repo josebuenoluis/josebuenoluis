@@ -8,9 +8,7 @@ José</a></h1>
 
 - 🔭 Actualmente en búsqueda de nuevas oportunidades como desarrollador junior.
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
+- 🌱 Actualmente desarrollando proyectos personales y aprendiendo nuevas tecnologías.
 
 - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
