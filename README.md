@@ -10,11 +10,7 @@ José</a></h1>
 
 - 🌱 Actualmente desarrollando proyectos personales y aprendiendo nuevas tecnologías.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
+- 🧪 He trabajado con Angular, Flask, MySQL, Jinja2, Bootstrap y Docker.
 
 - 📫 How to reach me **saurabhchavan052@gmail.com**
 
