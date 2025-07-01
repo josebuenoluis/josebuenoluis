@@ -6,7 +6,7 @@ José</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente en búsqueda de nuevas oportunidades como desarrollador junior.
+- 🔭 En búsqueda de nuevas oportunidades como desarrollador junior.
 
 - 🌱 Actualmente desarrollando proyectos personales y aprendiendo nuevas tecnologías.
 
