@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 José</a></h1>
-<h3 align="center">Apasionado desarrollador de aplicaciones multiplataforma</h3>
+<h3 align="center">Un apasionado desarrollador de aplicaciones multiplataforma</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
