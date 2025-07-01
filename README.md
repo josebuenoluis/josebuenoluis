@@ -12,7 +12,7 @@ José</a></h1>
 
 - 🧪 He trabajado con Angular, Flask, MySQL, Jinja2, Bootstrap y Docker.
 
-- 📄 Visita mi página web: <a href="https://josebuenoluis.com" target="blank">https://josebuenoluis.com</a>
+- 🌐 Visita mi página web: <a href="https://josebuenoluis.com" target="blank">https://josebuenoluis.com</a>
 
 - 📫 Puedes contactarme en: **josefbuenoluis@gmail.com**
   
