@@ -12,13 +12,13 @@ José</a></h1>
 
 - 💻 Habilidades técnicas:
 
-	Desarrollo frontend: Angular, React, Jinja2
+	- Desarrollo frontend: Angular, React, Jinja2
 
-	Backend: Flask, Django, ASP.NET
+	- Backend: Flask, Django, ASP.NET
 
-	Bases de datos: MySQL, PostgreSQL, MongoDB
+	- Bases de datos: MySQL, PostgreSQL, MongoDB
 
-	Contenedores y despliegue: Docker
+	- Contenedores y despliegue: Docker
 
 - 🌐 Visita mi página web: <a href="https://josebuenoluis.com" target="blank">https://josebuenoluis.com</a>
 
