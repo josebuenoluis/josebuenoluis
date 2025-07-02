@@ -22,7 +22,6 @@ José</a></h1>
 			<img src="https://img.icons8.com/?size=50&id=71257&format=png&color=000000" alt="Angular">	
 			<img src="https://img.icons8.com/?size=50&id=LPmcJ9e0FU7K&format=png&color=000000" alt="Django">	
 			<img src="https://img.icons8.com/?size=50&id=22813&format=png&color=000000" alt="Docker">	
-			<img src="https://img.icons8.com/?size=50&id=nCj4PvnCO0tZ&format=png&color=000000" alt="TypeScript">	
 			<img src="https://img.icons8.com/?size=50&id=MHcMYTljfKOr&format=png&color=000000" alt="Flask">
 			<img src="https://img.icons8.com/?size=50&id=1BC75jFEBED6&format=png&color=000000" alt=".NET">
 			<img src="https://img.icons8.com/?size=50&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL">
@@ -31,6 +30,14 @@ José</a></h1>
 			<img src="https://img.icons8.com/?size=50&id=17836&format=png&color=000000" alt="Android">
 			<img src="https://img.icons8.com/?size=50&id=47039&format=png&color=33CC2B" alt="PyQt5">
 	</div>
+ 	<div align="center" class="icons-stack" style="margin-left:10px;">
+		 <img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000" alt="Python">
+		 <img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000" alt="JavaScript">
+		 <img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000" alt="TypeScript">
+		 <img src="https://img.icons8.com/?size=50&id=55205&format=png&color=000000" alt="C#">
+		<img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000" alt="HTML">
+		<img src="https://img.icons8.com/?size=50&id=11935&format=png&color=000000" alt="CSS">
+ 	</div>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta conmigo 🤝 </h3>
 
