@@ -16,7 +16,7 @@ José</a></h1>
 
 <br/>
 
-<h2 align="center">Habilidades tecnicas</h2>
+<h2 align="center">Stack tecnológico</h2>
 	<div align="center" class="icons-stack" style="margin-left:10px;">
 			<img src="https://img.icons8.com/?size=50&id=asWSSTBrDlTW&format=png&color=000000" alt="React">
 			<img src="https://img.icons8.com/?size=50&id=71257&format=png&color=000000" alt="Angular">	
