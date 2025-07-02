@@ -29,7 +29,7 @@ José</a></h1>
 			<img src="https://img.icons8.com/?size=50&id=38561&format=png&color=000000" alt="PostgreSQL">
 			<img src="https://img.icons8.com/?size=50&id=tBBf3P8HL0vR&format=png&color=000000" alt="MongoDB">
 			<img src="https://img.icons8.com/?size=50&id=17836&format=png&color=000000" alt="Android">
-			<img src="https://img.icons8.com/?size=100&id=47039&format=png&color=33CC2B" alt="PyQt5">
+			<img src="https://img.icons8.com/?size=50&id=47039&format=png&color=33CC2B" alt="PyQt5">
 	</div>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta conmigo 🤝 </h3>
