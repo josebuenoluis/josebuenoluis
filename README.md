@@ -33,7 +33,7 @@ José</a></h1>
  	<div align="center" class="icons-stack" style="margin-left:10px;">
 		 <img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000" alt="Python">
 		 <img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000" alt="JavaScript">
-		 <img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000" alt="TypeScript">
+		 <img src="https://img.icons8.com/?size=50&id=nCj4PvnCO0tZ&format=png&color=000000" alt="TypeScript">
 		 <img src="https://img.icons8.com/?size=50&id=55205&format=png&color=000000" alt="C#">
 		<img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000" alt="HTML">
 		<img src="https://img.icons8.com/?size=50&id=11935&format=png&color=000000" alt="CSS">
